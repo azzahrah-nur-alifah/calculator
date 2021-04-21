@@ -1,0 +1,8 @@
+D:\SMK Telkom\kelas 11\KK3\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\SMK Telkom\kelas 11\KK3\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\SMK Telkom\kelas 11\KK3\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+D:\SMK Telkom\kelas 11\KK3\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+D:\SMK Telkom\kelas 11\KK3\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\SMK Telkom\kelas 11\KK3\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+D:\SMK Telkom\kelas 11\KK3\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\SMK Telkom\kelas 11\KK3\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb

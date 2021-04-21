@@ -1,0 +1,9 @@
+E:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+E:\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator_Azzahrah.csprojAssemblyReference.cache
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator_Azzahrah.csproj.GenerateResource.cache
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator_Azzahrah.csproj.CoreCompileInputs.cache
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
